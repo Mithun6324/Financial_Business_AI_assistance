@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+passlib[bcrypt]
+python-multipart
+python-jose
+PyMuPDF==1.24.10
+python-docx
+sentence-transformers
+chromadb
+requests
+pytest
+pytest-mock
